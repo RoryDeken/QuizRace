@@ -1,19 +1,26 @@
-# MathGameApp
+# Quiz Race Demo App
 
 
-Math Game App
-Welcome to the Math Game App, a fun and interactive platform designed to challenge and enhance your math skills! This app includes two exciting game modes with real-time scoring and a timer to keep you engaged.
 
-Features
-🧠 Game Modes
-Mental Math: Solve quick math problems to test your calculation speed.
-Math General Knowledge: Tackle trivia-style math questions to expand your knowledge.
-🎮 Game Highlights
-Timer: 1-minute countdown to solve 10 questions per mode.
-Real-Time Scoring: Get immediate feedback on your answers.
-Responsive Design: Optimized for desktops, tablets, and mobile devices.
-User-Friendly Interface: Simple and intuitive UI for seamless navigation.
-Tech Stack
+Welcome to the QuizRace App, a fun and interactive platform designed to allow two or more people to compete to see who can complete a set of quiz questions fastest and most accurately. Right now this in currently in active development as there are lots of issues still need to work out. Also please check out the author of the original version of this which leverages all their hard work and serves as the basis for this application.
+
+Features- More to be developed but these are some ideas of the basic core of the app
+Game Modes
+Head to Head: Challenge your friends to see who can answer the question list quickest.
+Group challenge: Two heads are better than one! Combine with a group to see how quickly you can take down a quiz.
+
+
+Possible Features:
+Ability to choose category of quiz
+Ability to chose dificulty of quiz
+Integrate with another service to provide the questions/answers
+Long form where there are more than 10 questions
+Ability for users to submit their own question/answers to crowd source ideas
+Boss/ranked mode where you can face off against other ranked opponents
+Possible AI integrations to play against a computer
+Leaderboard with person/teams listed based on scores
+Subscription/Membership Tiers etc
+
 
 Technology	
 Next.js for Frontend framework
